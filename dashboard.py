@@ -6,8 +6,7 @@ import plotly.express as px
 
 # =========================
 # PAGE CONFIG
-# =========================
-
+# ========================
 st.set_page_config(
     page_title="EduPro Dashboard",
     layout="wide"
